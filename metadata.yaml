@@ -1,0 +1,67 @@
+_repo: A-godly-medytacyon-of-the-christen-sowle-concerninge-a-loue-towardes-God-and-hys-Christe_70848
+_version: 0.0.1
+alternative_title:
+- Le miroir de lâme pécherresse. English
+- A godly meditation of the Christian soul, concerning a love towards God and his
+  Christ
+contributor:
+  translator:
+    agent_name: Elizabeth I, Queen of England
+    aliases:
+    - Tudor, Elizabeth
+    - Elisabeth I, Queen of England
+    birthdate: 1533
+    deathdate: 1603
+    gutenberg_agent_id: '55954'
+    url: http://www.gutenberg.org/2009/agents/55954
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_I
+creator:
+  author:
+    agent_name: Marguerite, Queen, consort of Henry II, King of Navarre
+    aliases:
+    - Margaret, Queen of Navarre
+    - Navarre, Marguerite de
+    - d'Angoulême, Marguerite
+    birthdate: 1492
+    deathdate: 1549
+    gutenberg_agent_id: '32596'
+    url: http://www.gutenberg.org/2009/agents/32596
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Marguerite_de_Navarre_(1492-1549)
+    - https://en.wikipedia.org/wiki/Marguerite_de_Navarre
+  editor:
+    agent_name: Bale, John
+    aliases:
+    - Stalbrydge, Henry
+    - Bale, John, Bp. of Ossory
+    - Bale, Johan
+    - Harrison, James
+    - Stalbridge, Henry
+    - Bale, Iohan
+    birthdate: 1495
+    deathdate: 1563
+    gutenberg_agent_id: '55964'
+    url: http://www.gutenberg.org/2009/agents/55964
+    wikipedia: https://en.wikipedia.org/wiki/John_Bale
+description: ''
+gutenberg_issued: '2023-05-23'
+identifiers:
+  gutenberg: '70848'
+language: en
+pgterms:marc905: 20220212152319dangoulme
+pgterms:marc906: '1548'
+pgterms:marc907: DE
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aGermany :$bDirik van der Straten, $c1548.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devotional literature'
+- !lcsh 'Meditations -- Early works to 1800'
+- !lcc 'BV'
+- GITenberg
+title: A godly medytacyon of the christen sowle, concerninge a loue towardes God and
+  hys Christe
+url: http://www.gutenberg.org/ebooks/70848
