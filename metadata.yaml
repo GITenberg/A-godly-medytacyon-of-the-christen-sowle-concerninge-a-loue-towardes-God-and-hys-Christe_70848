@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '55954'
     url: http://www.gutenberg.org/2009/agents/55954
     wikipedia: https://en.wikipedia.org/wiki/Elizabeth_I
+covers:
+- cover_type: archival
+  image_path: 70848-h/images/cover-back.jpg
 creator:
   author:
     agent_name: Marguerite, Queen, consort of Henry II, King of Navarre
@@ -44,6 +47,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55964
     wikipedia: https://en.wikipedia.org/wiki/John_Bale
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70848#A-godly-medytacyon-of-the-christen-sowle-concerninge-a-loue-towardes-God-and-hys-Christe
 gutenberg_issued: '2023-05-23'
 identifiers:
   gutenberg: '70848'
